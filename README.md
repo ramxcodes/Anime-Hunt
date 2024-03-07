@@ -13,8 +13,8 @@
 
 Anime Hunt is a simple website showcasing popular anime and manga titles. It provides a clean and user-friendly interface to explore information about various series.
 
-<img src="https://drive.google.com/uc?export=view&id=1WTbdjiP7cJbIwFM6LA2ox411kC8XKtP4" alt="Gojo Satoru Image" style="width: 100%; max-width: 600px; height: auto; margin: 20px 0;">
-<a target="_blank" href="https://ramxcodes.github.io/The-Old-Money-Landing-page" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; margin-bottom: 20px;">Visit Website ↗</a>
+<img src="https://drive.google.com/uc?export=view&id=1WV6P4dvyrlgvHhggvVvTkSs_j4R1kzNE" alt="Gojo Satoru Image" style="width: 100%; max-width: 600px; height: auto; margin: 20px 0;">
+<a target="_blank" href="https://ramxcodes.github.io/Anime-Hunt/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; margin-bottom: 20px;">Visit Website ↗</a>
 
 
 ---
