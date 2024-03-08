@@ -1,5 +1,5 @@
 # Anime Hunt Website
-
+Anime Hunt is a simple website showcasing popular anime and manga titles. It provides a clean and user-friendly interface to explore information about various series.
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
