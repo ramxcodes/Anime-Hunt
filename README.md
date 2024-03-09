@@ -40,7 +40,7 @@ To set up the Anime Hunt website locally or fork it for your own modifications, 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/anime-hunt.git
+    git clone https://github.com/ramxcodes/anime-hunt.git
     ```
 
 2. Open the `index.html` file in a web browser to view the website locally.
@@ -49,7 +49,7 @@ To set up the Anime Hunt website locally or fork it for your own modifications, 
 
 4. Make sure to update the repository URL in the cloned version:
     ```bash
-    git remote set-url origin https://github.com/your-username/anime-hunt.git
+    git remote set-url origin https://github.com/ramxcodes/anime-hunt.git
     ```
 
 5. Push the changes to your GitHub repository:
